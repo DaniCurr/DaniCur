@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="random_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0615493149" sel1="0.0615493149" vpos="0" h="0.0000000000" zoom="131.7369272639" rate="11025.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="cars040" isSelected="0" height="151" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="11025" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="85065">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808423.au" len="85065" min="-0.921875" max="0.992188" rms="0.155366"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cars026" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="11025" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="84997">
+				<waveblock start="0">
+					<simpleblockfile filename="e080891a.au" len="84997" min="-0.796875" max="0.703125" rms="0.120041"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="6">
+				<controlpoint t="4.020861678005" val="1.000000000000"/>
+				<controlpoint t="4.027025602264" val="0.725352168083"/>
+				<controlpoint t="5.253615520282" val="0.929577469826"/>
+				<controlpoint t="6.361503188170" val="0.500000000000"/>
+				<controlpoint t="11.651247165533" val="0.591549277306"/>
+				<controlpoint t="11.651247165533" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
